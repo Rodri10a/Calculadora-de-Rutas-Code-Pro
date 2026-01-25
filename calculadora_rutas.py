@@ -1,6 +1,6 @@
 import random
 from collections import deque
-import copy
+import copy 
 
 class Mapa:
     def __init__(self, dim): 
